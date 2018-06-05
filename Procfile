@@ -1,2 +1,2 @@
 
-web: python ./portfolioApp/manage.py runserver 0.0.0.0:5000
+web: python ./portfolioApp/manage.py runserver 127.0.0.1:8000
