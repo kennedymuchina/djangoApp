@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+django = "==2.0.6"
+gunicorn = "==19.8.1"
+pillow = "==5.1.0"
+pipfile = "==0.0.2"
+pytz = "==2018.4"
+toml = "==0.9.4"
+whitenoise = "==3.3.1"
+
+[dev-packages]
+
+[requires]
+python_version = "3.6"
